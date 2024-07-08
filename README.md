@@ -52,12 +52,9 @@ To use this repo, follow these steps:
 - Follow the process described in `Alternative One` above.
 
 - Remember to replace your username when cloning.
-
+  
       git clone https://github.com/bobojoy/codechallenge2.git
-
-
-
-
+  
 ### Requirements
 - Array
 1.  Maintain a JavaScript array to store shopping list items.
@@ -85,7 +82,7 @@ To use this repo, follow these steps:
 
 This project was contributed to by:
 
-- [Joy Wambui](https://github.com/bobojoy/)
+- [Joy Wambui](https://bobojoy.github.io/test/)
 
 ## License
 
